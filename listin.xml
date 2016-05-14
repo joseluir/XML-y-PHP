@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE listin SYSTEM "listin.dtd">
+<listin>
+		
+		
+		
+	<persona id="30" sexo="masculino"><nombre>gabriel</nombre><email>gabo@gmail.com</email></persona><persona id="1" sexo="femenino"><nombre>marcela</nombre><email>marce@gmail.com</email><sexo>femenino</sexo></persona><persona id="22" sexo="femenino"><nombre>maria</nombre><email>maria@gmail.com</email></persona><persona id="87" sexo="masculino"><nombre>jose</nombre><email>joseluisr@gmail.com</email></persona><persona id="44" sexo="masculino"><nombre>fabian</nombre><email>fabian@gmail.com</email></persona><persona id="90" sexo="masculino"><nombre>eider</nombre><email>eider@gmail.com</email></persona><persona id="52" sexo="femenino"><nombre>paola</nombre><email>pao@gmail.com</email></persona><persona id="18" sexo="masculino"><nombre>leonardo</nombre><email>leo@gmail.com</email></persona><persona id="47" sexo="femenino"><nombre>sanadra</nombre><email>sandra@gmail.com</email></persona><persona id="84" sexo="masculino"><nombre>gerardo</nombre><email>gerar@gmail.com</email></persona><persona id="73" sexo="femenino"><nombre>tatiana</nombre><email>tati@gmail.com</email></persona><persona id="70" sexo="masculino"><nombre>jhon</nombre><email>jhon@gmail.com</email></persona><persona id="1234" sexo="masculino"><nombre>jose</nombre><email>jose@gmail.com</email></persona><persona id="283" sexo="masculino"><nombre>manuel</nombre><email>manuel@gmail.com</email></persona><persona id="22" sexo="masculino"><nombre>yayi</nombre><email>yayi@gmail.com</email></persona></listin>
